@@ -102,8 +102,8 @@ plt.show()
 
 final_weight=model.linear.weight.item()
 final_bias=model.linear.bias.item()
-print("\nName : Kanagavel A K")
-print("Register No : 212223230096")
+print("\nName : Koti Sai Sankar")
+print("Register No : 212222240111")
 print(f"\nFinal Weight : {final_weight:.8f}, Final Bias : {final_bias:.8f}")
 
 
@@ -132,24 +132,25 @@ print(f"\nPrediction for x = 120 : {y_new_pred:.8f}")
 <img width="604" height="458" alt="image" src="https://github.com/user-attachments/assets/c27233e6-5296-40e9-bf6e-2026440c8cc3" />
 
 ## Training Loss Vs Iteration Plot
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/63aed523-db6e-4737-9995-4c4e82d76be3" />
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/c9a5bb50-c50d-41a8-8937-047967648877" />
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/d94809b9-9d20-48ae-a56e-743e769c71b1" />
+<img width="739" height="825" alt="image" src="https://github.com/user-attachments/assets/46adedd2-8641-4e1b-a0e9-ffed6e358d54" />
+<img width="665" height="826" alt="image" src="https://github.com/user-attachments/assets/2a8b99a2-8bb8-463b-b721-a62b8a6b7cf5" />
+<img width="626" height="824" alt="image" src="https://github.com/user-attachments/assets/25ad98d0-10ae-45ad-9733-4e027b49a8fe" />
+
 
 ## Best Fit line plot
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/37172446-6691-46f5-a7bb-b1d3333436b3" />
+<img width="795" height="644" alt="image" src="https://github.com/user-attachments/assets/b5de529c-eeab-4957-8ecd-0b765263de4d" />
 
 ## Final weight & Bias:
-<img width="406" height="77" alt="image" src="https://github.com/user-attachments/assets/10ee4b46-f99e-4711-bb43-8608648a2d8e" />
+<img width="591" height="98" alt="image" src="https://github.com/user-attachments/assets/61e3367f-04e3-40bd-9a81-b9d0c63bd344" />
 
 
 
 ## Best Fit line plot
-<img width="850" height="850" alt="image" src="https://github.com/user-attachments/assets/e558002d-fbc3-41f5-bb91-32fa3d20d02f" />
+<img width="767" height="593" alt="image" src="https://github.com/user-attachments/assets/6e551218-b387-4548-8fa9-e5171c7ac0d8" />
 
 
 ### New Sample Data Prediction
-<img width="346" height="77" alt="image" src="https://github.com/user-attachments/assets/24bb63e7-7bbf-4f57-815a-9fe8c09be69d" />
+<img width="450" height="55" alt="image" src="https://github.com/user-attachments/assets/b431f68b-916f-4d33-b861-7f43f5f1ec85" />
 
 
 
